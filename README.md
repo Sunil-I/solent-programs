@@ -52,6 +52,14 @@ The most up-to-date documentation for each version can be found at:
 
 Please see [RUNNING.txt](RUNNING.txt) for more info.
 
+1) Open Terminal and run this command:
+```shell
+git clone --branch tomcat https://github.com/sunil-i/solent-programs tomcat
+```
+2) Move the tomcat folder somewhere accessible e.g c:\programs files or in a safe location that you would unlikely delete it by accident.
+3) Add the bin folder to the PATH environment e.g c:\program files\tomcat\bin
+4) You may need to set the CATALINA_HOME or CATALINA_BASE environment since tomcat will try to write the config in the same directory as the binaries which may result in a permission error.
+
 ### Licensing
 
 Please see [LICENSE](LICENSE) for more info.
