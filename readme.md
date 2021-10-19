@@ -12,7 +12,7 @@ You should look at the [**readme.md**](https://github.com/Sunil-I/solent-program
 ```shell
 git clone --branch tomcat https://github.com/sunil-i/solent-programs tomcat
 ```
-You should look at the [**readme.md**](https://github.com/Sunil-I/solent-programs/blob/tomcat/readme.md) for installation instructions.
+You should look at the [**README.md**](https://github.com/Sunil-I/solent-programs/blob/tomcat/README.md) for installation instructions.
 
 ### Installing java 11
 ```shell
